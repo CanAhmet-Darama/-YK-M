@@ -1,0 +1,5 @@
+Piksel başına 5 km
+Yukarıya çıktıkça çıkma oranı çarpı cosinus çarpı 5/6 ile oranlanacak
+knot, günde 43 km demek
+Gemiler günde; 2-5 knot
+Yayan ordular günde 16-32 km gidebilir
